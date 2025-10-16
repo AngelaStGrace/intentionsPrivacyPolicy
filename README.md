@@ -49,4 +49,15 @@ privacy policy
   <p>The App does not knowingly collect any personal information from anyone, including children under 13 years of age.</p>
 
   <h2>Changes to This Privacy Policy</h2>
-  <p>If we decide to make an
+  <p>If we decide to make any changes to this policy, we will update this page. Please check back occasionally to stay informed.</p>
+
+  <h2>Contact Us</h2>
+  <p>If you have any questions about this Privacy Policy, please contact us at:</p>
+  <p><strong>Email:</strong> cara@cararicketts.com</p>
+
+  <footer>
+    &copy; 2025 Your App Name. All rights reserved.
+  </footer>
+</body>
+</html>
+
