@@ -1,0 +1,2 @@
+# intentionsPrivacyPolicy
+privacy policy 
