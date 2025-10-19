@@ -56,7 +56,7 @@ privacy policy
   <p><strong>Email:</strong> cr.assistant@cararicketts.com</p>
 
   <footer>
-    &copy; 2025 Your App Name. All rights reserved.
+    &copy; 2025 reAct Intentions. All rights reserved.
   </footer>
 </body>
 </html>
