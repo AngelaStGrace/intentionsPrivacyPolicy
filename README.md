@@ -37,7 +37,7 @@ privacy policy
 
   <p><strong>Last updated:</strong> October 16, 2025</p>
 
-  <p>Your privacy is important to us. This app (“the App”) is a thesaurus application designed to help users find synonyms and related words. We do <strong>not</strong> collect, store, or share any personal data from users.</p>
+  <p>Your privacy is important to us. This app "ReAct Intentions" is a thesaurus application designed to help users find synonyms and related words. We do <strong>not</strong> collect, store, or share any personal data from users.</p>
 
   <h2>Information Collection and Use</h2>
   <p>The App does not collect, transmit, or store any personal information, usage data, or analytics. No third-party analytics tools, advertising networks, or tracking technologies are used.</p>
@@ -53,7 +53,7 @@ privacy policy
 
   <h2>Contact Us</h2>
   <p>If you have any questions about this Privacy Policy, please contact us at:</p>
-  <p><strong>Email:</strong> cara@cararicketts.com</p>
+  <p><strong>Email:</strong> cr.assistant@cararicketts.com</p>
 
   <footer>
     &copy; 2025 Your App Name. All rights reserved.
